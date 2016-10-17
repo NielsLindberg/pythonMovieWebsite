@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"too",
+				"toggleBounce"
+			],
+			[
+				"spee",
+				"speedMultiplicator"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"header",
+				"pageHeaderHeight"
+			],
+			[
+				"bd",
+				"bd+	border: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"format",
+				"formattedDescription"
+			],
+			[
+				"formate",
+				"formattedDates"
+			],
+			[
+				"formatted",
+				"formattedTitle"
+			],
+			[
+				"formattedEm",
+				"formattedEmployer"
+			],
+			[
+				"formattedEmp",
+				"formattedEmployerTitle"
+			],
+			[
+				"card",
+				"card-container"
+			],
+			[
+				"bo",
+				"text-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 213.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"Autoprefix CSS",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"install",
+			"Autoprefix CSS",
+			".jshintrc",
+			"view.run_command(\"jshint\")",
+			"$ bower install jquery",
+			"bower install jquery",
+			"npm install -g bower",
+			"bower install jquery",
+			"npm --version",
+			"install --save polymer",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/workspace/Udacity/pythonMovieWebsite/media.py",
+		"/D/workspace/Udacity/Python/foundation.py",
+		"/D/workspace/Udacity/Twilio/twilooh.py",
+		"/D/Workspace/codewars/java.js",
+		"/D/Workspace/CBS/BigSocialData/textAnalytics/eneltekay.py",
+		"/D/workspace/CBS/BigSocialData/textAnalytics/init.py",
+		"/D/workspace/CBS/BigSocialData/textAnalytics/readme.txt",
+		"/D/workspace/CBS/BigSocialData/textAnalytics/novel",
+		"/D/Workspace/Udacity/frontend-nanodegree-feedreader/js/app.js",
+		"/D/Workspace/Udacity/frontend-nanodegree-feedreader/README.md",
+		"/D/Workspace/Udacity/frontend-nanodegree-feedreader/jasmine/spec/feedreader.js",
+		"/D/Workspace/Udacity/mapApp/src/css/style.less",
+		"/D/Workspace/Udacity/mapApp/src/index.html",
+		"/D/Workspace/Udacity/mapApp/src/js/models/mapEntries.js",
+		"/D/Workspace/Udacity/mapApp/src/js/main.js",
+		"/D/Workspace/Udacity/mapApp/Gruntfile.js",
+		"/D/Workspace/Udacity/mapApp/README.md",
+		"/D/Workspace/Udacity/P5/frontend-nanodegree-arcade-game/js/engine.js",
+		"/D/Workspace/Udacity/P5/frontend-nanodegree-arcade-game/js/app.js",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/D/Workspace/Udacity/P4/css/style.css",
+		"/D/Workspace/CBS/yoprogram.py",
+		"/D/Workspace/Udacity/frontend-nanodegree-arcade-game/js/app.js",
+		"/D/Workspace/CBS/data.json",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/src/index.html",
+		"/D/Workspace/CBS/yoyo.py",
+		"/D/Workspace/CBS/quandl/WWDI.py",
+		"/D/Workspace/Udacity/mapApp/src/js/mapStyles.js",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/Gruntfile.js",
+		"/D/Workspace/Udacity/mapApp/bower.json",
+		"/D/Workspace/Udacity/P4/js/builder.js",
+		"/D/Workspace/CBS/quandl/test.py",
+		"/D/Workspace/Udacity/P4/css/style.less",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/amCombo/library/chalk.js",
+		"/D/Workspace/Udacity/P4/js/map.js",
+		"/D/Workspace/Udacity/mapApp/src/css/style.css",
+		"/C/Users/Niels/Downloads/ScandinaviaLevel2new.kml",
+		"/C/Users/Niels/Downloads/Scandinavia level 1.kml",
+		"/D/Workspace/MapData/KML-zip_20160907044612.kml",
+		"/C/Users/Niels/workspace/ConvertMapXMLtoCSV/src/temp/x.csv",
+		"/C/Users/Niels/workspace/ConvertMapXMLtoCSV/src/style.xsl",
+		"/C/Users/Niels/Downloads/DNK_adm2.rds",
+		"/D/Workspace/MapData/DNK_adm_shp.zip",
+		"/C/Users/Niels/Downloads/ScandinaviaLevel2.kml",
+		"/C/Users/Niels/Downloads/Denmark divisions. Level 2.kml",
+		"/C/Users/Niels/Downloads/Scandinavia level 2.kml",
+		"/C/Users/Niels/Downloads/DNK_adm2.kmz",
+		"/D/Workspace/Udacity/P4/js/edu.js",
+		"/D/Workspace/Udacity/mapApp/bower_components/knockout/dist/knockout.js",
+		"/D/Workspace/Udacity/boilerplate/src/css/style.css",
+		"/D/Workspace/Udacity/boilerplate/src/js/main.js",
+		"/D/Workspace/Udacity/mapApp/boilerplate/package.json",
+		"/D/Workspace/Udacity/boilerplate/README.md",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/src/views/js/main.js",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/package.json",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/README.md",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/frontend-nanodegree-mobile-portfolio",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/src/views/css/style.css",
+		"/D/Workspace/Udacity/boilerplate/package.json",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/dist/project-mobile.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/src/views/pizza.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/dist/project-webperf.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/src/project-2048.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/src/js/googleanal.js",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/src/project-webperf.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/src/project-mobile.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/dist/views/pizza.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/dist/views/css/style.css",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/dist/project-2048.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/dist/index.html",
+		"/D/Workspace/Udacity/frontend-nanodegree-mobile-portfolio/dist/js/googleanal.js",
+		"/D/Workspace/Udacity/udportfolio/Gruntfile.js",
+		"/D/Workspace/Udacity/udportfolio/package.json",
+		"/D/Workspace/Udacity/web-workers-demo/scripts/imageManips.js",
+		"/D/Workspace/Udacity/web-workers-demo/scripts/worker.js",
+		"/D/Workspace/Udacity/web-workers-demo/scripts/image-app.js",
+		"/D/Workspace/Udacity/web-workers-demo/index.html",
+		"/D/Workspace/Udacity/udportfolio/project-2048.html",
+		"/D/Workspace/Udacity/udportfolio/css/mobile.css",
+		"/D/Workspace/Udacity/udportfolio/css/style.css",
+		"/D/Workspace/Udacity/udportfolio/js/perfmatters.js",
+		"/D/Workspace/LTU/Assignment4/package.json",
+		"/D/Workspace/Udacity/udportfolio/index.html",
+		"/D/Workspace/Udacity/udportfolio/.gitignore",
+		"/D/Workspace/Udacity/P4/Gruntfile.js",
+		"/D/Workspace/Udacity/udportfolio/indexsrc.html",
+		"/D/Workspace/Udacity/P5/frontend-nanodegree-arcade-game/index.html",
+		"/D/Workspace/Udacity/P5/frontend-nanodegree-arcade-game/README.md",
+		"/D/workspace/LTU/Assignment4/README.md",
+		"/D/WoW Vanilla/realmlist.wtf",
+		"/D/Workspace/Udacity/P4/css/optimized/less.style.css",
+		"/D/Workspace/Udacity/P4/js/work.js",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/Workspace/Udacity/P4/js/bio.js",
+		"/D/Workspace/Udacity/P4/projects.html",
+		"/D/Workspace/Udacity/P4/index.html",
+		"/D/Workspace/Udacity/P4/js/optimized/built.js",
+		"/D/Workspace/Udacity/P4/js/projects.js",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/D/Workspace/Udacity/P4/js/footer.js",
+		"/D/Workspace/Udacity/P4/.gitignore",
+		"/D/Workspace/Udacity/P4/test/test",
+		"/D/Workspace/Udacity/P4/css/optimized/less.style.min.css",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+		"/D/Workspace/Udacity/P4/css/optimized/style.min.css",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/Default.sublime-keymap",
+		"/D/Workspace/Udacity/P4/js/education.js",
+		"/D/Workspace/frontend-nanodegree-resume/index.html",
+		"/D/Workspace/frontend-nanodegree-resume/js/helper.js",
+		"/D/Workspace/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/D/Workspace/Udacity/P4/package.json",
+		"/D/Workspace/Udacity/P4/js/optimized/built.min.js",
+		"/D/workspace/udacity/p4/Gruntfile.js",
+		"/D/Workspace/Udacity/P3/js/bio.js",
+		"/D/Workspace/Udacity/P3/css/style.css",
+		"/D/Workspace/adhoc/lele.js",
+		"/D/Workspace/Udacity/P3/backup/index.html",
+		"/D/Workspace/Udacity/responsivedesign/Start/main.css",
+		"/D/Workspace/Udacity/responsivedesign/Start/responsive.css",
+		"/D/Workspace/Udacity/responsivedesign/Start/index.html",
+		"/D/workspace/udacity/responsivedesign/start/index.html",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".flexbox > .flex-child > .",
+			".flexbox > .flex-parent > .",
+			".flexbox > .flex-parent > ",
+			".flexbox > .flex-parent",
+			"yelpview",
+			"content-button",
+			".content button",
+			".content-button",
+			"display",
+			"#pano",
+			"result-container",
+			"yelp",
+			"directionsDisplayList",
+			"populateinfowindow",
+			"itemLabelFilter",
+			"console",
+			"categoryColors",
+			"category",
+			"overflow",
+			"mapEntryList",
+			"food",
+			"service",
+			"<SimpleData name=\"NAME_2\"></SimpleData>",
+			"<name>",
+			"<Polygon>",
+			"NAME_2",
+			"embed",
+			"tilesHeight",
+			"tilesWidth",
+			"topOffset",
+			"numberOfEnemies",
+			"speedMultiplicator",
+			"tileswidth",
+			"tilesHeight",
+			"console",
+			"titlesWidth",
+			"titlesHeight",
+			"101",
+			"83",
+			"titlesHeight",
+			"505",
+			"83",
+			"background",
+			"link",
+			"center",
+			"callback",
+			"googlemap",
+			"coin",
+			"style",
+			">: ",
+			"> ",
+			"Theyare",
+			"  ",
+			"really",
+			"Family",
+			"<div class=\"article\">\n<h1>Addams Family</h1>\n<p>They really are a scream the Addams Family.</p>\n<a href=\"#\">Read more +</a>\n</div>\n",
+			"class",
+			"About",
+			"=\"#\">",
+			"Home",
+			"=\"#\">",
+			"Home",
+			"here",
+			"border",
+			"'",
+			"\"",
+			"'",
+			"\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pythonMovieWebsite.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
